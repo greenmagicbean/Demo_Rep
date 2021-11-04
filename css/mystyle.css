@@ -1,0 +1,18 @@
+div {
+    height:400px;
+    width:50%;
+    background-color: aqua;
+}
+p{
+    font-family:'Roboto', Times, serif;
+    font-size:large;
+    color:chartreuse;
+}
+
+#nav{
+    height:50px;
+    width: 100%;
+    background-color:black;
+    padding-left: 5px;
+    padding-top: 5px;    
+}
