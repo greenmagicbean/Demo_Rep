@@ -9,10 +9,17 @@ p{
     color:chartreuse;
 }
 
-#nav{
+#title{
     height:50px;
     width: 100%;
     background-color:black;
     padding-left: 5px;
     padding-top: 5px;    
+}
+
+#topnav{
+    height:50px;
+    width:100%;
+    background-color:chocolate;
+     
 }
